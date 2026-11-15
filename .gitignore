@@ -1,0 +1,29 @@
+## Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+## 编译产物
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.o
+*.exe
+*.pdb
+*.ilk
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
+*.ipch
+*.aps
+
+## 依赖
+packages/
+vcpkg_installed/
